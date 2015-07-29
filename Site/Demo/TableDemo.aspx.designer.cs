@@ -7,11 +7,11 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Site
+namespace Site.Demo
 {
 
 
-    public partial class Default
+    public partial class TableDemo
     {
 
         /// <summary>
